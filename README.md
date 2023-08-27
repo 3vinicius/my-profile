@@ -50,16 +50,8 @@
 ## 📨Connect with me:
 
 <p  align="left">
-<table>
-<thead>
-<tr>
-<th><a  href="https://linkedin.com/in/viniciusaamorim"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="vinícius-amorim"  height="30"  width="40" /></a></th>
-<th><a  href="https://instagram.com/vinicius_aamorim/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="@vinicius_aamorim"  height="30"  width="40" /></a></th>
-<tr>
-</thead>
-</table>
-
-
+<a  href="https://linkedin.com/in/viniciusaamorim"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="vinícius-amorim"  height="30"  width="40" /></a>
+<a  href="https://instagram.com/vinicius_aamorim/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="@vinicius_aamorim"  height="30"  width="40" /></a>
 
 </p>
 
