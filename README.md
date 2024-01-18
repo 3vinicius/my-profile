@@ -55,17 +55,3 @@
 <a  href="https://wa.me/5582999572271"  target="blank"><img  align="center"  src="https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone.png"  alt="Whatsaap: 82999572271"  height="40"  width="40" /></a>
 </p>
 
-
-</p>
-
-<!--
-<a  href="https://github.com/anuraghazra/github-readme-stats">
-
-<img  height=200  align="center"  src="https://github-readme-stats-new-git-master-3vinicius.vercel.app/api?username=3vinicius&show_icons=true&theme=dracula" />
-
-</a>
-
-  
-
-![Readme Card](https://github-readme-stats-new-git-master-3vinicius.vercel.app/api/pin/?username=3vinicius&repo=Strapi-Sql-Cloud-LandPage)
--->
